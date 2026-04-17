@@ -1,3 +1,7 @@
+![Project Screenshot](./Screenshots/3.png)
+![Project Screenshot](./Screenshots/2.png)
+![Project Screenshot](./Screenshots/1.png)
+![Project Screenshot](./Screenshots/Tray.png)
 # ScreenShot
 
 ElectronJs and Python-based screenShot.
